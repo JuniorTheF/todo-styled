@@ -12,5 +12,7 @@ const fakeData = {
             toDosIds: ['todo-1', 'todo-2', 'todo-3', 'todo-4'],
         },
     },
-    columnOrder: ['column-1']
+    columnOrder: ['column-1'],
 };
+
+export default fakeData;
